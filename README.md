@@ -1,4 +1,4 @@
-# UNP-project_BI-with-Power-BI_Human-resource
+# UNP-Project_BI-with-Power-BI_Human-resource
 
 Completed this project as part of my BI with PowerBI Internship with United Network of Professionals (UNP).
 
@@ -9,4 +9,5 @@ Key highlights:
 3. Ardently involved in creating data model, implemented data transfrmations and calculations using DAX for accurate analysis and reporting.
 
 PBIX file Link:https://drive.google.com/file/d/1CHNclwSy9RWY6QEsdTUxrBHLE-DLeRCz/view?usp=sharing
-PDF Link:https://drive.google.com/file/d/1AkfFl_jV6KSB9_ZWyh5AUBmhuzhRDLyC/view?usp=sharing
+Canva link:https://drive.google.com/file/d/1AkfFl_jV6KSB9_ZWyh5AUBmhuzhRDLyC/view?usp=sharing
+PDF link:https://drive.google.com/file/d/1AQw7-Pk9mYNBoipXjCxTt9ikxC1dgzB9/view?usp=sharing
